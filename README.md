@@ -9,7 +9,7 @@ Primero instalamos todas las dependencias con el siguiente comando:
 npm install
 ```
 
-Luego, ejecutamos el comando para levantar en simultáneo el cliente y el servidor:
+Luego, ejecutamos el comando:
 ```
 expo start
 ```
