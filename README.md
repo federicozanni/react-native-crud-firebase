@@ -1,6 +1,6 @@
 # React native crud firebase
 
-### Crud hecho con `React native`, utilizando `Expo` y `Firebase` para el Back-end
+Crud hecho con `React native`, utilizando `Expo` y `Firebase` para el Back-end
 
 ## Configuración
 
